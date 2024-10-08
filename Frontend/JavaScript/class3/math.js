@@ -51,6 +51,7 @@ console.log(5!=="5");
  if(false){
     console.log("it is true");
  }
+
 if(" "){
     console.log("it is true");
 }
@@ -69,16 +70,23 @@ if(-0.0534){
     console.log("no discount");
  }
  //task
- //let gender=male;
- //let age=52;
- //if(gender==="male"){
- //if(age>=22){
-   //console.log("he can marry");
- //}
- //else{
-   // console.log("cannot marry");
- //}
-//}
+ let gender;
+ let age=50;
+ if(gender==="male")
+    {
+    console.log("male");
+    }
+ 
+    else if(age>=22)
+    {
+   console.log("he can marry");
+ }
+ else
+ {
+   console.log("cannot marry");
+ }
+
+
 
  //task
 
