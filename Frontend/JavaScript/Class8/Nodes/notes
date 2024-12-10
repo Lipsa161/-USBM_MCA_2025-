@@ -1,0 +1,45 @@
+ASYNCHRONOUS :-
+/*  asynchronous= nonblocking 
+Promises-eventual completion or failure
+ex- whatsapp state send a message
+1-success -fulfill
+2-pending
+3-failure-rejected
+
+Async/Await :-
+ execution the sync untill promise setteled
+
+ Fetch
+ -to handle API 
+ fetch("https://abc.com").then((res,rej)=>res.json())  //conversion .then((res)=>console.log(res)).then((error)=>console.log(error)); //res=resolve,rej=rejected
+
+
+ Fetch API :-
+ network request to make retrieve resource
+ handling promise and asynchoronous http request
+
+aync method use 
+try() 
+{
+//success code
+}
+Catch(){
+//error
+}
+
+task-create a ecommerce website 
+1-home page(Carousal/image slider)
+2-about page(navbar,footer)
+3-product page(navbar,footer)
+4-cart page(navbar,footer)
+5-signup/login page(navbar,footer)
+
+
+REACT
+
+--->single-page application
+--->its a library
+--->virtual DOM
+
+*/
+
