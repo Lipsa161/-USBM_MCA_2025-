@@ -3,7 +3,7 @@
 
 //import modules
 //const math= require("./math");
-const fs = require("fs");
+//const fs = require("fs");
 
 
 //custom modules
@@ -32,7 +32,7 @@ const fs = require("fs");
 //fs.renameSync("file.js","node.js");
 
 //delete folder
-fs.rmdirSync("file.js");
+//fs.rmdirSync("file.js");
 
 
 
